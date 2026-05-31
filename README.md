@@ -69,3 +69,4 @@ practice-lldy
 | Llody |组长流程验证与审核  | 是       |
 | HeDY | 奖励函数组 | 是       |
 | xinqx | 第三组-实验记录练习 | 是 |
+| hxhm | 奖励函数组 | 是       |
