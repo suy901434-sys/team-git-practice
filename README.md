@@ -74,3 +74,4 @@ practice-lldy
 | hxhm | 奖励函数组 | 是       
 | yh551 |第一组-技术开发练习 | 是 |
 |Lakers007|信息组|是|
+| yanzhaoli | 第五组-展示支持练习 | 是 |
