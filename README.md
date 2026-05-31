@@ -70,3 +70,4 @@ practice-lldy
 | HeDY | 奖励函数组 | 是       |
 | xinqx | 第三组-实验记录练习 | 是 |
 | hxhm | 奖励函数组 | 是       |
+|Lakers007|信息组|是|
